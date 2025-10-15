@@ -55,6 +55,7 @@
 	</dependencies>
 
 	<build>
+	<finalname>backend</finalname>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
